@@ -57,3 +57,4 @@ export const defaultGameConfig: GameConfig = {
     cooldown: 2,
   },
 };
+
