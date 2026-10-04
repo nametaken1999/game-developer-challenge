@@ -1,4 +1,5 @@
-import { GameScreen } from ".assets/scripts/GameScreen";
+import React from "react";
+import { GameScreen } from "../GameScreen";
 
 function App() {
   return <GameScreen />;
