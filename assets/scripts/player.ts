@@ -15,7 +15,7 @@ export class Player {
     this.speed = config.player.moveSpeed;
     this.rotationSpeed = config.player.rotationSpeed;
 
-    this.sprite = Sprite.from("/assets/ships/player.png");
+    this.sprite = Sprite.from("ship_2.png");
 
     this.sprite.anchor.set(0.5);
   }
